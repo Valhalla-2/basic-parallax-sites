@@ -18,15 +18,15 @@ body, html {
     background-attachment: fixed;
 }
 .pimg1 {
-    background-image: url('/img/opening\ scene.png');
+    background-image: url("/basic-parallax-sites/img/opening\ scene.png");
     min-height: 100%;
 }
 .pimg2 {
-    background-image: url('/img/Alexei\ apartment.png');
+    background-image: url("/basic-parallax-sites/img/Alexei\ apartment.png");
    min-height: 400px;
 }
 .pimg3 {
-    background-image: url('/img/printing\ press.png');
+    background-image: url("/basic-parallax-sites/img/printing\ press.png");
     min-height: 400px;
 
 }
