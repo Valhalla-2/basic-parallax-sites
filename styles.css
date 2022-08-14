@@ -1,0 +1,61 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400px;
+    line-height: 1.8em;
+    color: #666;
+   
+}
+
+.pimg1, .pimg2, .pimg3 {
+    position: relative;
+    opacity: 0.7;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.pimg1 {
+    background-image: url('/img/opening\ scene.png');
+    min-height: 100%;
+}
+.pimg2 {
+    background-image: url('/img/Alexei\ apartment.png');
+   min-height: 400px;
+}
+.pimg3 {
+    background-image: url('/img/printing\ press.png');
+    min-height: 400px;
+
+}
+.section, .intro {
+    text-align: center;
+    text-transform: capitalize;
+    padding: 50px 80px;
+}
+span {
+    font-weight: bold;
+}
+.section-dark  {
+    background-color: #282e34;
+    color: #ddd;
+}
+.heading {
+    text-align: center;
+    text-shadow: 2px 2px 2px #666;
+
+}
+
+.ptext1, .ptext2, .ptext3 {
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #666;
+}
